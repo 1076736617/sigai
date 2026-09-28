@@ -11,11 +11,10 @@
 
 ### 🎬 功能演示视频
 
-[![Watch the demo](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@your-channel)
+[![Watch the demo](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.bilibili.com/video/BV1bEaq6qEpg/)
 
 <!-- 替换为你的实际视频链接 -->
-- **B站**: [AIBS 功能演示](https://www.bilibili.com/video/your-video-id)
-- **YouTube**: [AIBS Demo](https://www.youtube.com/watch?v=your-video-id)
+- **B站**: [AIBS 功能演示](https://www.bilibili.com/video/BV1bEaq6qEpg/)
 
 </div>
 
