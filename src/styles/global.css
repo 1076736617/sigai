@@ -1,0 +1,60 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-primary: #0a0e27;
+  --bg-card: rgba(17, 22, 51, 0.92);
+  --bg-panel: rgba(17, 22, 51, 0.85);
+  --color-primary: #00d4ff;
+  --color-success: #00ff88;
+  --color-warning: #ffd700;
+  --color-danger: #ff3366;
+  --color-accent: #ff6b35;
+  --color-text: #e8f0ff;
+  --color-text-secondary: #7b8db5;
+  --color-border: rgba(0, 212, 255, 0.2);
+  --color-glow: rgba(0, 212, 255, 0.3);
+  --font-display: "PingFang SC", "Microsoft YaHei", "Noto Sans SC", sans-serif;
+  --font-mono: "JetBrains Mono", "Fira Code", monospace;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: var(--bg-primary);
+  color: var(--color-text);
+  font-family: var(--font-display);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 2px;
+}
+
+input, textarea, button, select {
+  font-family: inherit;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
