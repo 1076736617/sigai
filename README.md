@@ -11,8 +11,6 @@
 
 ### 🎬 功能演示视频
 
-[![Watch the demo](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.bilibili.com/video/BV1bEaq6qEpg/)
-
 <!-- 替换为你的实际视频链接 -->
 - **B站**: [AIBS 功能演示](https://www.bilibili.com/video/BV1bEaq6qEpg/)
 
@@ -267,33 +265,6 @@ AI 协商 → 自动匹配 → 生成提案 → 人类确认 → 交易完成
 
 ---
 
-## 📸 视频上传指南
-
-### 视频内容建议
-1. **功能演示**（推荐 3-5 分钟）：注册 → 配置 → 访谈 → 谈判 → 交易
-2. **技术架构讲解**：解释 DID、AI 协商、WebSocket 实时通信
-3. **界面展示**：地图视图、聊天界面、交易流程
-
-### 上传步骤
-1. **YouTube**：上传视频 → 复制链接到 README 的视频区域
-2. **B站**：上传视频 → 复制链接到 README 的视频区域
-3. **本地视频文件**：
-   ```bash
-   mkdir -p videos
-   # 将视频文件放入 videos/ 目录
-   # 然后更新 README 中的链接
-   ```
-
-### Markdown 嵌入格式
-```markdown
-<!-- YouTube -->
-[![Watch the demo](https://img.shields.io/badge/Watch_Demo-YouTube-red)](https://youtube.com/your-link)
-
-<!-- B站 -->
-[![Watch the demo](https://img.shields.io/badge/Watch_Demo-B站-orange)](https://bilibili.com/your-link)
-```
-
----
 
 ## 📜 许可证
 
@@ -304,6 +275,7 @@ MIT License
 ## 🤝 贡献指南
 
 欢迎提交 Issue 和 Pull Request！
+<img width="888" height="1131" alt="WechatIMG201" src="https://github.com/user-attachments/assets/0aa3fadb-32b1-4560-8b81-2425a0f3a920" />
 
 ---
 
